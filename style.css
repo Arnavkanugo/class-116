@@ -1,0 +1,19 @@
+canvas{
+    animation-name:Arnav7;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+@keyframes Arnav7{
+    from{
+        box-shadow:1px 1px 40px pink ;
+
+    }
+    to{
+    
+        box-shadow:1px 1px 40px red;
+    }
+}
+.btn-success:hover
+{
+    background-color:orange;
+}
